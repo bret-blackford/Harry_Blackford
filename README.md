@@ -4,3 +4,7 @@
 Web-page URL: http://www.harry.blackford.info/
 
 A similar but seperate web-page here: http://www.blackford.mbret.tech/farm/
+
+
+
+site is also published at https://bret-blackford.github.io/Harry_Blackford/
